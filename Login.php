@@ -9,7 +9,7 @@
 
         <body>
              <nav class="navbar navbar-expand-lg "style="background-color: black;">
-                 <a class="navbar-brand" href="home.php">Home</a>
+                 <a class="navbar-brand" href="index.php">Home</a>
                  <a class="navbar-brand" href="Login.php">Login and Regester</a>
               </nav>
              <div class="container">
